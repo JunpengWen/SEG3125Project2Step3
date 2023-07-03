@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/gamewave/static/css/main.45c4362d.css",
-    "main.js": "/gamewave/static/js/main.82078906.js",
-    "static/media/logo.png": "/gamewave/static/media/logo.49999ed3eaaf2f522991.png",
-    "index.html": "/gamewave/index.html",
-    "main.45c4362d.css.map": "/gamewave/static/css/main.45c4362d.css.map",
-    "main.82078906.js.map": "/gamewave/static/js/main.82078906.js.map"
+    "main.css": "/SEG3125Project2Step3/static/css/main.45c4362d.css",
+    "main.js": "/SEG3125Project2Step3/static/js/main.d4eed5a1.js",
+    "static/media/logo.png": "/SEG3125Project2Step3/static/media/logo.49999ed3eaaf2f522991.png",
+    "index.html": "/SEG3125Project2Step3/index.html",
+    "main.45c4362d.css.map": "/SEG3125Project2Step3/static/css/main.45c4362d.css.map",
+    "main.d4eed5a1.js.map": "/SEG3125Project2Step3/static/js/main.d4eed5a1.js.map"
   },
   "entrypoints": [
     "static/css/main.45c4362d.css",
-    "static/js/main.82078906.js"
+    "static/js/main.d4eed5a1.js"
   ]
 }
