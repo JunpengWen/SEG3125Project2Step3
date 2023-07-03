@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gamewave/static/css/main.45c4362d.css",
+    "main.js": "/gamewave/static/js/main.82078906.js",
+    "static/media/logo.png": "/gamewave/static/media/logo.49999ed3eaaf2f522991.png",
+    "index.html": "/gamewave/index.html",
+    "main.45c4362d.css.map": "/gamewave/static/css/main.45c4362d.css.map",
+    "main.82078906.js.map": "/gamewave/static/js/main.82078906.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c4362d.css",
+    "static/js/main.82078906.js"
+  ]
+}
